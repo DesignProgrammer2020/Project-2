@@ -90,8 +90,7 @@ function draw() {
     textSize(28);
     textStyle(BOLD);
     fill(0);
-    text("Plastics harm animals!", 100, 100);
-    text("Enter your favorite animals names.", 100, 150);
+    text("Enter animals names.", 100, 150);
     text("Click the randomizer.", 100, 200);
   }
   pop();
