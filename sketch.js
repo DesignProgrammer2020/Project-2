@@ -65,7 +65,7 @@ function setup() {
     fishes[i] = new Fishes(random(0, width), random(0, height));
   }
 
-  //create 6 fishes at random locations
+  //create 6 birds at random locations
   for (let i = 0; i <= 5; i++) {
     birds[i] = new Birds(random(0, width), random(0, height));
   }
